@@ -27,8 +27,8 @@ This is demo Simple web application using jsp,servlet &amp; Jdbc. <br><br>
     <li>Storing user information in cookies</li>
     <li>Product List</li>
     <li>Create Product</li>
-    <li>Edit Product</li>
-    <li>Delete Product</li>
+    <li>Edit Product - Need to test</li>
+    <li>Delete Product- Need to tes</li>
 </ul>
 
 <jsp:include page="_footer.jsp"></jsp:include>
